@@ -1,0 +1,6 @@
+{
+  "name": "Terminal Lab - OS Simulator",
+  "description": "Học lệnh hệ điều hành Linux (Debian, Arch), macOS và Windows với trình duyệt Terminal giả lập, trình soạn thảo mã nguồn, tích hợp Git và lưu trữ đám mây.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
